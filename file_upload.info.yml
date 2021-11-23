@@ -1,0 +1,11 @@
+name: File Upload Test Module
+type: module
+description: 'Used for testing Javascript tests for File upload fields.'
+package: LIA
+core_version_requirement: ^8 || ^9
+version: 1.0.0
+
+dependencies:
+  - file
+  - user
+  - path

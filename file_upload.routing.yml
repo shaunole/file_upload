@@ -1,0 +1,7 @@
+file_upload.test:
+  path: '/tests/file_upload'
+  defaults:
+    _title: 'File Upload Test'
+    _form: '\Drupal\file_upload\Form\FileUploadForm'
+  requirements:
+    _access: 'TRUE'
